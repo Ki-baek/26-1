@@ -29,3 +29,5 @@ for i in range(t):
         cnt += 1
   
   print(f"#{i + 1} {cnt}")
+  
+# 가?벼운 브루트포스
